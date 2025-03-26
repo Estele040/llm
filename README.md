@@ -6,19 +6,6 @@
 https://github.com/mlabonne/llm-course/issues/57
 ```
 
-<div align="center">
-  <h1>🗣️ 大语言模型课程</h1>
-  <p align="center">
-    🐦 <a href="https://twitter.com/maximelabonne">在X上关注我</a> • 
-    🤗 <a href="https://huggingface.co/mlabonne">Hugging Face</a> • 
-    💻 <a href="https://mlabonne.github.io/blog">博客</a> • 
-    📙 <a href="https://github.com/PacktPublishing/Hands-On-Graph-Neural-Networks-Using-Python">动手学图神经网络</a> • 
-    🗣️ <a href="https://chat.openai.com/g/g-yviLuLqvI-llm-course">交互式GPT</a>
-  </p>
-</div>
-<br/>
-
-
 大语言模型课程分为三个部分：
 
 1. 🧩 **LLM基础** 涵盖关于数学、Python和神经网络的基础知识。
